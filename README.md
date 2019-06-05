@@ -22,7 +22,7 @@ The network distortion can be solved by "solver.m". It is intened to solve the n
 	
 which gives us figure 4.(a)
 	
-<img src="figure/CompleteVSRing.jpg" style ="width:300px"/> 
+<img src="figure/CompleteVSRing.jpg" width="300" /> 
 	
 ### Equity Buffer	
 	equity_buffer.m
@@ -30,7 +30,7 @@ which gives us figure 4.(a)
 	
 which gives us figure 5
 
-<img src="figure/equity.jpg" style ="width:300px"/> 
+<img src="figure/equity.jpg" width="300" /> 
 
 	
 	
