@@ -33,7 +33,7 @@ Figure 5
 
 ### 3.4 -- Irregular Network: European Debt Cross-Holding Example
 
-<img src="figure/eu.jpg" width="600" /> 	
+<img src="figure/eu.JPG" width="600" /> 	
 
 
 	
